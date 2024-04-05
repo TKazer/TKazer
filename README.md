@@ -30,7 +30,7 @@ Your sponsorship means a lot to me. It will give me great motivation to develop 
 
 <img src="https://img.shields.io/badge/Bitcoin-Liv?logo=bitcoin&logoColor=yellow&labelColor=white&color=red" alt="Bitcoin"> 1Edp16VAJQwaowAJT959F8QbXwvVbdPqym
 
-<img src="https://img.shields.io/badge/USDT(TRC20)-Liv?logo=TON&logoColor=yellow&labelColor=white&color=red" alt="USDT"> TFxQiwPER5GSC3SnAkCNWArLUEfZQBsCJD
+<img src="https://img.shields.io/badge/USDT(TRC20)-Liv?logo=TON&logoColor=green&labelColor=white&color=red" alt="USDT"> TFxQiwPER5GSC3SnAkCNWArLUEfZQBsCJD
 
 <a href="https://github.com/TKazer/TKazer/blob/main/Images/WechatPay.png"><img src="https://img.shields.io/badge/Wechat-Liv-green?logo=wechat" alt="Wechat"></a> <a href="https://github.com/TKazer/TKazer/blob/main/Images/Alipay.png"><img src="https://img.shields.io/badge/Alipay-Liv-blue?logo=alipay" alt="Alipay"></a>
 
