@@ -43,5 +43,6 @@ Your sponsorship means a lot to me. It will give me great motivation to develop 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkazer&repo=DrawAlgorithm)](https://github.com/TKazer/DrawAlgorithm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkazer&repo=DyingLight_Internal)](https://github.com/TKazer/DyingLight_Internal)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkazer&repo=Apex_External)](https://github.com/TKazer/Apex_External)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkazer&repo=Dwm)](https://github.com/TKazer/Dwm)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Tkazer&repo=Malody-Reader)](https://github.com/TKazer/Malody-Reader)
 
