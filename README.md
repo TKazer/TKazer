@@ -34,7 +34,7 @@ Your sponsorship means a lot to me. It will give me great motivation to develop 
 
 <a href="https://github.com/TKazer/TKazer/blob/main/Images/WechatPay.png"><img src="https://img.shields.io/badge/Wechat-Liv-green?logo=wechat" alt="Wechat"></a> <a href="https://github.com/TKazer/TKazer/blob/main/Images/Alipay.png"><img src="https://img.shields.io/badge/Alipay-Liv-blue?logo=alipay" alt="Alipay"></a>
 
-### State
+### Status
 <div align="left"> <img height="230px" src="https://github-readme-stats.vercel.app/api?username=TKazer&show_icons=true" /> </div>
 
 ### Top repositories
