@@ -11,8 +11,6 @@ I'm a developer from China 🇨🇳
 
 Dedicate myself to learning reverse engineering.
 
-Preparing for the graduation examination.
-
 ### 🌏 Language
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
