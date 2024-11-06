@@ -3,7 +3,6 @@
 I'm a developer from China 🇨🇳
 
 ### 🔎 About me
-* A senior three student.
 * Like reverse engineering.
 * Passionate about open source.
 
